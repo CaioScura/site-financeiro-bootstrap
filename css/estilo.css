@@ -1,0 +1,29 @@
+.img-logo {
+    width: 142px;
+}
+
+.home {
+    background: #ffc107;
+    color: #ffffff;
+}
+
+.caixa {
+    padding: 4rem 0;
+    border-bottom: 1px solid #aaaaaa;
+}
+
+.menu-rodape {
+    padding-left: 5px;
+    padding-right: 5px
+}
+
+.rodape {
+    padding: 2rem 0;
+    background: #cccccc;
+}
+
+
+/* padding: 5px;  -> todos os lados
+   padding: 5px 0;  -> vertical / horizontal
+   padding: 1px 2px 3px 4px;  -> top / right / bottom / left
+*/
